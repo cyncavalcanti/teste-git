@@ -1,2 +1,2 @@
-# teste-git
-teste de uso do git
+# Estudo sobre o git/github
+Projeto impulso tec
